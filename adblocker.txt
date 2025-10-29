@@ -1,0 +1,165 @@
+# Simon AdBlock Test – Custom Rules (v1.0)
+# Erstellt: 2025-10-29
+
+# Google Ads / DoubleClick
+||ad.doubleclick.net^
+||static.doubleclick.net^
+||stats.g.doubleclick.net^
+||m.doubleclick.net^
+||pagead2.googlesyndication.com^
+||adservice.google.com^
+||afs.googlesyndication.com^
+||pagead2.googleadservices.com^
+
+# Google Analytics
+||google-analytics.com^
+||ssl.google-analytics.com^
+||analytics.google.com^
+||click.googleanalytics.com^
+
+# Media.net
+||static.media.net^
+||media.net^
+
+# AdColony
+||ads30.adcolony.com^
+||wd.adcolony.com^
+||events3alt.adcolony.com^
+||adc3-launch.adcolony.com^
+
+# Pinterest
+||ads.pinterest.com^
+||log.pinterest.com^
+||trk.pinterest.com^
+||analytics.pinterest.com^
+
+# Facebook
+||an.facebook.com^
+||pixel.facebook.com^
+
+# TikTok
+||ads.tiktok.com^
+||ads-sg.tiktok.com^
+||analytics.tiktok.com^
+||analytics-sg.tiktok.com^
+||business-api.tiktok.com^
+||log.byteoversea.com^
+
+# LinkedIn
+||ads.linkedin.com^
+||analytics.pointdrive.linkedin.com^
+
+# Twitter
+||ads-api.twitter.com^
+||static.ads-twitter.com^
+
+# Reddit
+||events.reddit.com^
+||events.redditmedia.com^
+
+# Hotjar
+||identify.hotjar.com^
+||insights.hotjar.com^
+||script.hotjar.com^
+||adm.hotjar.com^
+||careers.hotjar.com^
+||surveys.hotjar.com^
+
+# Mouseflow
+||cdn.mouseflow.com^
+||cdn-test.mouseflow.com^
+||tools.mouseflow.com^
+||o2.mouseflow.com^
+||gtm.mouseflow.com^
+||api.mouseflow.com^
+||mouseflow.com^
+
+# Luckyorange
+||realtime.luckyorange.com^
+||settings.luckyorange.net^
+||api.luckyorange.com^
+||cs.luckyorange.net^
+||upload.luckyorange.net^
+||cdn.luckyorange.com^
+||w1.luckyorange.com^
+||luckyorange.com^
+
+# Bugsnag / Sentry
+||notify.bugsnag.com^
+||sessions.bugsnag.com^
+||api.bugsnag.com^
+||app.bugsnag.com^
+||browser.sentry-cdn.com^
+||app.getsentry.com^
+
+# Freshmarketer
+||claritybt.freshmarketer.com^
+||fwtracks.freshmarketer.com^
+||freshmarketer.com^
+
+# Unity Ads
+||auction.unityads.unity3d.com^
+||config.unityads.unity3d.com^
+||adserver.unityads.unity3d.com^
+||webview.unityads.unity3d.com^
+
+# Xiaomi / Realme / Oppo / Huawei / Samsung
+||api.ad.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
+||sdkconfig.ad.intl.xiaomi.com^
+||data.mistat.xiaomi.com^
+||data.mistat.india.xiaomi.com^
+||data.mistat.rus.xiaomi.com^
+||tracking.rus.miui.com^
+||iot-logser.realme.com^
+||iot-eu-logser.realme.com^
+||bdapi-in-ads.realmemobile.com^
+||bdapi-ads.realmemobile.com^
+||ck.ads.oppomobile.com^
+||adsfs.oppomobile.com^
+||adx.ads.oppomobile.com^
+||data.ads.oppomobile.com^
+||metrics.data.hicloud.com^
+||logservice.hicloud.com^
+||metrics2.data.hicloud.com^
+||logbak.hicloud.com^
+||logservice1.hicloud.com^
+||grs.hicloud.com^
+||analytics-api.samsunghealthcn.com^
+||smetrics.samsung.com^
+||nmetrics.samsung.com^
+||samsungads.com^
+
+# Apple
+||metrics.icloud.com^
+||metrics.mzstatic.com^
+||weather-analytics-events.apple.com^
+||books-analytics-events.apple.com^
+||notes-analytics-events.apple.com^
+||api-adservices.apple.com^
+||iadsdk.apple.com^
+
+# Yahoo / Yandex
+||udcm.yahoo.com^
+||analytics.yahoo.com^
+||ads.yahoo.com^
+||gemini.yahoo.com^
+||partnerads.ysm.yahoo.com^
+||adfstat.yandex.ru^
+||metrika.yandex.ru^
+||appmetrica.yandex.ru^
+||adfox.yandex.ru^
+||adtech.yahooinc.com^
+
+# Amazon S3 Trackers
+||adtago.s3.amazonaws.com^
+||advice-ads.s3.amazonaws.com^
+||analyticsengine.s3.amazonaws.com^
+||analytics.s3.amazonaws.com^
+
+# Misc
+||samsung-com.112.2o7.net^
+||geo.yahoo.com^
+||analytics.query.yahoo.com^
+
+# END
